@@ -6,7 +6,6 @@ export default {
     container: {
       padding: {
         md: "10rem",
-        
       }
     },
   },
